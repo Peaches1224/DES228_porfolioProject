@@ -5,7 +5,8 @@
 @tailwind utilities; */
 
 @theme {
-    --color-background: #;
+    --color-background: #3A0CA3;
+    --color-bghover: #F72585;
 }
 
 
@@ -63,7 +64,7 @@ h1{
     color:#7209B7;
    
     text-align: center;
-    padding-top: 75px;
+    /* padding-top: 75px; */
 
 }
 
@@ -92,7 +93,7 @@ nav {
     width: 100%;
     color:#3A0CA3;
     padding: 10px;
-    position: fixed;
+    /* position: fixed; */
     /* margin-top: 10; */
     }
 
