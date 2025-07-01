@@ -247,6 +247,9 @@
   .mt-\[5px\] {
     margin-top: 5px;
   }
+  .mt-\[20px\] {
+    margin-top: 20px;
+  }
   .mt-\[40px\] {
     margin-top: 40px;
   }
@@ -262,11 +265,68 @@
   .mb-\[30px\] {
     margin-bottom: 30px;
   }
+  .ml-\[00px\] {
+    margin-left: 00px;
+  }
+  .ml-\[1px\] {
+    margin-left: 1px;
+  }
   .ml-\[30px\] {
     margin-left: 30px;
   }
+  .ml-\[40px\] {
+    margin-left: 40px;
+  }
+  .ml-\[100px\] {
+    margin-left: 100px;
+  }
+  .ml-\[130px\] {
+    margin-left: 130px;
+  }
+  .ml-\[140px\] {
+    margin-left: 140px;
+  }
+  .ml-\[150px\] {
+    margin-left: 150px;
+  }
+  .ml-\[160px\] {
+    margin-left: 160px;
+  }
+  .ml-\[175px\] {
+    margin-left: 175px;
+  }
+  .ml-\[200px\] {
+    margin-left: 200px;
+  }
+  .ml-\[240px\] {
+    margin-left: 240px;
+  }
   .ml-\[300px\] {
     margin-left: 300px;
+  }
+  .ml-\[400px\] {
+    margin-left: 400px;
+  }
+  .ml-\[500px\] {
+    margin-left: 500px;
+  }
+  .ml-\[540px\] {
+    margin-left: 540px;
+  }
+  .ml-\[550px\] {
+    margin-left: 550px;
+  }
+  .ml-\[600px\] {
+    margin-left: 600px;
+  }
+  .ml-\[700px\] {
+    margin-left: 700px;
+  }
+  .ml-\[1000px\] {
+    margin-left: 1000px;
+  }
+  .ml-\[1050px\] {
+    margin-left: 1050px;
   }
   .block {
     display: block;
@@ -304,11 +364,32 @@
   .w-30 {
     width: calc(var(--spacing) * 30);
   }
+  .w-\[00px\] {
+    width: 00px;
+  }
+  .w-\[50px\] {
+    width: 50px;
+  }
   .w-\[100\] {
     width: 100;
   }
   .w-\[100px\] {
     width: 100px;
+  }
+  .w-\[250px\] {
+    width: 250px;
+  }
+  .w-\[300px\] {
+    width: 300px;
+  }
+  .w-\[350px\] {
+    width: 350px;
+  }
+  .w-\[400px\] {
+    width: 400px;
+  }
+  .w-\[600px\] {
+    width: 600px;
   }
   .w-\[800px\] {
     width: 800px;
@@ -480,6 +561,9 @@
   .pt-12 {
     padding-top: calc(var(--spacing) * 12);
   }
+  .pt-\[20px\] {
+    padding-top: 20px;
+  }
   .pt-\[30px\] {
     padding-top: 30px;
   }
@@ -512,6 +596,21 @@
   }
   .pl-\[20px\] {
     padding-left: 20px;
+  }
+  .pl-\[100px\] {
+    padding-left: 100px;
+  }
+  .pl-\[300px\] {
+    padding-left: 300px;
+  }
+  .pl-\[500px\] {
+    padding-left: 500px;
+  }
+  .pl-\[700px\] {
+    padding-left: 700px;
+  }
+  .pl-\[1000px\] {
+    padding-left: 1000px;
   }
   .text-base {
     font-size: var(--text-base);
