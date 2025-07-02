@@ -7,6 +7,7 @@
 @theme {
     --color-background: #3A0CA3;
     --color-bghover: #F72585;
+    --color-button:#8187DC;
 }
 
 
@@ -90,7 +91,6 @@ form {
 nav {
     /* background-color:#03045e; */
     text-decoration-color:#3A0CA3;
-    width: 100%;
     color:#3A0CA3;
     padding: 10px;
     /* position: fixed; */
@@ -108,4 +108,9 @@ nav a:hover {
 
 footer {
     padding-bottom: 100px;
+}
+
+ul a {
+  display: block;
+  margin-bottom: 20px;
 }
